@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Estilo principal de la aplicación para tema claro -->
+    <style name="Theme.ExamenEntrevistas.Light" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#303F9F</item>
+        <item name="colorAccent">#FF4081</item>
+        <!-- Otros elementos del estilo para tema claro -->
+    </style>
+
+    <!-- Estilo para el DatePickerDialog en tema claro -->
+    <style name="DatePickerDialogTheme.Light" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:datePickerDialogTheme">@style/MyDatePickerDialogTheme.Light</item>
+    </style>
+
+    <!-- Estilo personalizado para el DatePickerDialog en tema claro -->
+    <style name="MyDatePickerDialogTheme.Light" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorBackground">@color/white</item>
+    </style>
+
+</resources>

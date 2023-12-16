@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721426010744",
+    "project_id": "appexamenentrevistas",
+    "storage_bucket": "appexamenentrevistas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721426010744:android:dc61c7ce1a154292c5538d",
+        "android_client_info": {
+          "package_name": "com.example.examenentrevistas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkcLB7019g91xLJFOa3AgC4aV33hqpWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

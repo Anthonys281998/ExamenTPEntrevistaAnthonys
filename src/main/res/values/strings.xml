@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExamenEntrevistas</string>
+    <string name="hint_fecha">Fecha</string>
+</resources>
